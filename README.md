@@ -1,4 +1,4 @@
-# Intro
+# About me
 
 Hello! My name is Dana Abdullah.  
 I am a Cybersecurity student with a background in information security and networking.  
